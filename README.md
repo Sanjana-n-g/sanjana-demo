@@ -1,6 +1,6 @@
 #Project Management Tool Lab
 
-This repository contains basic HTML example.
+This repository contains readme and basic HTML example.
 
 Files:- simplebasichtml
 
